@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1697828730 source:c:\users\unathi lenkoe\desktop\library management system\main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	<cstdlib>
+	<stdbool.h>
+	<stdlib.h>
+	"User.h"
+	"Member.h"
+	"Books.h"
+	"Librarian.h"
+
+1697580250 c:\users\unathi lenkoe\desktop\library management system\user.h
+	<string>
+
+1697580250 source:c:\users\unathi lenkoe\desktop\library management system\user.cpp
+	"User.h"
+	<iostream>
+
+1697580250 source:c:\users\unathi lenkoe\desktop\library management system\member.cpp
+	"Member.h"
+	<iostream>
+
+1697580250 c:\users\unathi lenkoe\desktop\library management system\member.h
+	<string>
+	"User.h"
+
+1697580250 source:c:\users\unathi lenkoe\desktop\library management system\librarian.cpp
+	"Librarian.h"
+	<iostream>
+
+1697580250 c:\users\unathi lenkoe\desktop\library management system\librarian.h
+	<string>
+	"User.h"
+
+1697828730 source:c:\users\unathi lenkoe\desktop\library management system\books.cpp
+	"Books.h"
+	<iostream>
+
+1697828730 c:\users\unathi lenkoe\desktop\library management system\books.h
+	<string>
+	"Member.h"
+
+1697796332 source:e:\library management system\books.cpp
+	"Books.h"
+	<iostream>
+
+1697796332 e:\library management system\books.h
+	<string>
+	"Member.h"
+
+1697547852 e:\library management system\member.h
+	<string>
+	"User.h"
+
+1697547852 e:\library management system\user.h
+	<string>
+
+1697547852 source:e:\library management system\librarian.cpp
+	"Librarian.h"
+	<iostream>
+
+1697547852 e:\library management system\librarian.h
+	<string>
+	"User.h"
+
+1697547852 source:e:\library management system\member.cpp
+	"Member.h"
+	<iostream>
+
+1697547852 source:e:\library management system\user.cpp
+	"User.h"
+	<iostream>
+
